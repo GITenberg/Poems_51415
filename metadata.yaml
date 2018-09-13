@@ -1,5 +1,8 @@
 _repo: Poems_51415
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51415-h/images/cover.jpg
 creator:
   author:
     agent_name: Coleman, Jamie Harris
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46401'
     url: http://www.gutenberg.org/2009/agents/46401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51415#Poems
 gutenberg_issued: '2016-03-10'
 gutenberg_type: Text
 identifiers:
