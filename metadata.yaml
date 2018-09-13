@@ -1,0 +1,32 @@
+_repo: Poems_51415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coleman, Jamie Harris
+    birthdate: 1893
+    gutenberg_agent_id: '46401'
+    url: http://www.gutenberg.org/2009/agents/46401
+description: ''
+gutenberg_issued: '2016-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'To the memory of Booker T. Washington -- Days of youth -- War: its
+  horrors -- Dove of peace -- Life -- The ocean -- The perfect day -- The cross of
+  Calvary -- Emancipation -- Absence -- No prejudice in heaven -- Difficulties in
+  life -- A risen race -- Lincoln -- A thought of nature -- Assurance -- The artist
+  above -- Slavery -- To the memory of mother -- Ethiopia''s prayer -- The wounded
+  heart -- The world''s emancipator -- Days of melancholy -- A plea for justice --
+  Thanksgiving -- Life''s evening tide -- Christ the truth, the life, the way -- Eternal
+  home -- The value of a well spent life -- Signs of spring -- What is life? -- Summer''s
+  farewell -- Spring -- Forgiveness.'
+title: Poems
+url: http://www.gutenberg.org/ebooks/51415
